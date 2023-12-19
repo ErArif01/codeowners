@@ -1,0 +1,10 @@
+# CODEOWNERS file
+
+# Default code owners fo rthe entire respository
+* @global-code-owners
+
+# Specify code owners for specific directories or files
+
+src/ @src-code-owners
+tests/ Atest-code-owners
+docs/ @doc-code-owners
